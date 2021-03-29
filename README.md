@@ -49,3 +49,9 @@ cat > file - write standard input into file
 cat >> file - append standard input into file
 
 tail -f file - output contents of file as it grows
+
+xdg-open filename - to open file using terminal 
+
+node - to run node.js in terminal
+
+node filename - to run javascript in terminal 
